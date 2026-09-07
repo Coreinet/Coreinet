@@ -1,0 +1,11 @@
+{
+  "username": "Coreinet",
+  "name": "Parsa",
+  "wordmark": "PARSA",
+  "role": "Full-stack developer",
+  "location": "Istanbul, Türkiye",
+  "status": "Building web products from interface to infrastructure.",
+  "website": "https://github.com/Coreinet",
+  "photo": "assets/profile-source.png",
+  "skills": ["TypeScript", "JavaScript", "React", "Next.js", "Node.js", "Python"]
+}
