@@ -1,0 +1,3 @@
+# Keep generated assets byte-identical between local runs and the Linux GitHub Action
+* text=auto eol=lf
+*.png binary
